@@ -1,0 +1,19 @@
+{
+  "version": "media_pack_v2026_03_04",
+  "visual_root": "assets/textures",
+  "audio_root": "assets/sounds",
+  "texture_naming": "domain/type_name_size.ext",
+  "audio_naming": "category/event_name.ext",
+  "packs": [
+    "tiles",
+    "entities",
+    "objects",
+    "loot",
+    "icons",
+    "player",
+    "monster",
+    "skills",
+    "ui",
+    "music"
+  ]
+}

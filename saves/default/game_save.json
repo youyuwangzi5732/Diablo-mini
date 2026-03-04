@@ -1,0 +1,527 @@
+{
+  "meta": {
+    "schema_version": 2,
+    "saved_at": "2026-03-04T04:21:04.842782",
+    "signature": "c18183a03b19bdbc560d9d8f1f26e0dc663af089472853a72367517a64a908f8"
+  },
+  "payload": {
+    "character": {
+      "id": "29cd7732",
+      "name": "测试角色",
+      "class_id": "barbarian",
+      "level": 1,
+      "experience": 0,
+      "attributes": {
+        "base_attributes": {
+          "strength": 15,
+          "dexterity": 8,
+          "intelligence": 5,
+          "vitality": 12,
+          "max_health": 0.0,
+          "health_regen": 0.0,
+          "max_mana": 0.0,
+          "mana_regen": 0.0,
+          "attack_power": 0.0,
+          "spell_power": 0.0,
+          "armor": 0.0,
+          "dodge_chance": 0.0,
+          "crit_chance": 5.0,
+          "crit_damage": 150.0,
+          "attack_speed": 1.0,
+          "cast_speed": 1.0,
+          "movement_speed": 1.0,
+          "fire_resist": 0.0,
+          "cold_resist": 0.0,
+          "lightning_resist": 0.0,
+          "poison_resist": 0.0,
+          "life_steal": 0.0,
+          "magic_find": 0.0,
+          "gold_find": 0.0,
+          "thorns": 0.0,
+          "block_chance": 0.0,
+          "block_amount": 0.0
+        },
+        "modifiers": []
+      },
+      "paragon": {
+        "paragon_level": 0,
+        "total_points": 0,
+        "spent_points": {
+          "strength": 0,
+          "dexterity": 0,
+          "intelligence": 0,
+          "vitality": 0,
+          "attack_speed": 0,
+          "crit_chance": 0,
+          "crit_damage": 0,
+          "cooldown_reduction": 0,
+          "max_health": 0,
+          "armor": 0,
+          "all_resist": 0,
+          "health_regen": 0,
+          "movement_speed": 0,
+          "gold_find": 0,
+          "magic_find": 0,
+          "resource_cost_reduction": 0
+        },
+        "available_points": 0
+      },
+      "current_health": 250,
+      "current_resource": 100,
+      "skills": {
+        "bash": {
+          "skill_id": "bash",
+          "level": 1,
+          "selected_branch": null,
+          "cooldown_remaining": 0.0
+        }
+      },
+      "passives": {},
+      "skill_bar": [
+        "bash",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "equipment": {
+        "head": {
+          "id": "76a0a3f4",
+          "base_id": "helmet_heavy",
+          "name": "重型头盔",
+          "item_type": "armor",
+          "rarity": 0,
+          "level": 1,
+          "required_level": 1,
+          "icon": "",
+          "description": "",
+          "max_stack": 1,
+          "quantity": 1,
+          "sockets": 2,
+          "socketed_items": [],
+          "current_durability": 82,
+          "max_durability": 82,
+          "affixes": [],
+          "implicit_affixes": [],
+          "is_identified": true,
+          "is_ancient": false,
+          "set_id": null,
+          "legendary_power": null,
+          "base_stats": {
+            "armor": 52.5
+          }
+        },
+        "shoulders": {
+          "id": "fb41259a",
+          "base_id": "shoulders_heavy",
+          "name": "重型护肩",
+          "item_type": "armor",
+          "rarity": 0,
+          "level": 1,
+          "required_level": 1,
+          "icon": "",
+          "description": "",
+          "max_stack": 1,
+          "quantity": 1,
+          "sockets": 2,
+          "socketed_items": [],
+          "current_durability": 82,
+          "max_durability": 82,
+          "affixes": [],
+          "implicit_affixes": [],
+          "is_identified": true,
+          "is_ancient": false,
+          "set_id": null,
+          "legendary_power": null,
+          "base_stats": {
+            "armor": 47.25
+          }
+        },
+        "chest": {
+          "id": "25bae89e",
+          "base_id": "chest_heavy",
+          "name": "重型胸甲",
+          "item_type": "armor",
+          "rarity": 0,
+          "level": 1,
+          "required_level": 1,
+          "icon": "",
+          "description": "",
+          "max_stack": 1,
+          "quantity": 1,
+          "sockets": 4,
+          "socketed_items": [],
+          "current_durability": 82,
+          "max_durability": 82,
+          "affixes": [],
+          "implicit_affixes": [],
+          "is_identified": true,
+          "is_ancient": false,
+          "set_id": null,
+          "legendary_power": null,
+          "base_stats": {
+            "armor": 157.5
+          }
+        },
+        "hands": {
+          "id": "8f748c4e",
+          "base_id": "gloves_heavy",
+          "name": "重型手套",
+          "item_type": "armor",
+          "rarity": 0,
+          "level": 1,
+          "required_level": 1,
+          "icon": "",
+          "description": "",
+          "max_stack": 1,
+          "quantity": 1,
+          "sockets": 2,
+          "socketed_items": [],
+          "current_durability": 82,
+          "max_durability": 82,
+          "affixes": [],
+          "implicit_affixes": [],
+          "is_identified": true,
+          "is_ancient": false,
+          "set_id": null,
+          "legendary_power": null,
+          "base_stats": {
+            "armor": 31.5
+          }
+        },
+        "waist": {
+          "id": "2f1263ff",
+          "base_id": "belt_heavy",
+          "name": "重型腰带",
+          "item_type": "armor",
+          "rarity": 0,
+          "level": 1,
+          "required_level": 1,
+          "icon": "",
+          "description": "",
+          "max_stack": 1,
+          "quantity": 1,
+          "sockets": 2,
+          "socketed_items": [],
+          "current_durability": 82,
+          "max_durability": 82,
+          "affixes": [],
+          "implicit_affixes": [],
+          "is_identified": true,
+          "is_ancient": false,
+          "set_id": null,
+          "legendary_power": null,
+          "base_stats": {
+            "armor": 36.75
+          }
+        },
+        "legs": {
+          "id": "deecd6e6",
+          "base_id": "legs_heavy",
+          "name": "重型护腿",
+          "item_type": "armor",
+          "rarity": 0,
+          "level": 1,
+          "required_level": 1,
+          "icon": "",
+          "description": "",
+          "max_stack": 1,
+          "quantity": 1,
+          "sockets": 3,
+          "socketed_items": [],
+          "current_durability": 82,
+          "max_durability": 82,
+          "affixes": [],
+          "implicit_affixes": [],
+          "is_identified": true,
+          "is_ancient": false,
+          "set_id": null,
+          "legendary_power": null,
+          "base_stats": {
+            "armor": 84.0
+          }
+        },
+        "feet": {
+          "id": "8b6e05bf",
+          "base_id": "boots_heavy",
+          "name": "重型靴子",
+          "item_type": "armor",
+          "rarity": 0,
+          "level": 1,
+          "required_level": 1,
+          "icon": "",
+          "description": "",
+          "max_stack": 1,
+          "quantity": 1,
+          "sockets": 2,
+          "socketed_items": [],
+          "current_durability": 82,
+          "max_durability": 82,
+          "affixes": [],
+          "implicit_affixes": [],
+          "is_identified": true,
+          "is_ancient": false,
+          "set_id": null,
+          "legendary_power": null,
+          "base_stats": {
+            "armor": 42.0
+          }
+        },
+        "main_hand": {
+          "id": "1b25cd32",
+          "base_id": "sword_1h",
+          "name": "长剑",
+          "item_type": "weapon",
+          "rarity": 0,
+          "level": 1,
+          "required_level": 1,
+          "icon": "",
+          "description": "",
+          "max_stack": 1,
+          "quantity": 1,
+          "sockets": 1,
+          "socketed_items": [],
+          "current_durability": 82,
+          "max_durability": 82,
+          "affixes": [],
+          "implicit_affixes": [],
+          "is_identified": true,
+          "is_ancient": false,
+          "set_id": null,
+          "legendary_power": null,
+          "base_stats": {
+            "min_damage": 11.0,
+            "max_damage": 22.0,
+            "attack_speed": 1.2
+          }
+        },
+        "off_hand": null,
+        "neck": null,
+        "ring_left": {
+          "id": "676aafab",
+          "base_id": "ring",
+          "name": "戒指",
+          "item_type": "accessory",
+          "rarity": 0,
+          "level": 1,
+          "required_level": 1,
+          "icon": "",
+          "description": "",
+          "max_stack": 1,
+          "quantity": 1,
+          "sockets": 1,
+          "socketed_items": [],
+          "current_durability": 82,
+          "max_durability": 82,
+          "affixes": [],
+          "implicit_affixes": [],
+          "is_identified": true,
+          "is_ancient": false,
+          "set_id": null,
+          "legendary_power": null,
+          "base_stats": {}
+        },
+        "ring_right": null
+      },
+      "inventory": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "gold": 0,
+      "play_time": 0.0,
+      "position": [
+        25,
+        25
+      ],
+      "attribute_points": 0,
+      "skill_points": 0
+    },
+    "world": {
+      "current_area_id": "tristram"
+    },
+    "quests": {
+      "active_quests": {},
+      "completed_quests": [],
+      "story_flags": {},
+      "quest_outcomes": {}
+    },
+    "story_flags": {},
+    "chapter_history": [
+      {
+        "name": "序章：余烬",
+        "summary": "你抵达新崔斯特姆，钟声在夜里响起。"
+      }
+    ],
+    "ending_history": [],
+    "achievements": {
+      "slayer_1000": {
+        "name": "千人斩",
+        "unlocked": false,
+        "target": 1000
+      },
+      "quest_master": {
+        "name": "任务宗师",
+        "unlocked": false,
+        "target": 40
+      },
+      "rift_runner": {
+        "name": "秘境远征者",
+        "unlocked": false,
+        "target": 20
+      },
+      "master_smith": {
+        "name": "宗师铁匠",
+        "unlocked": false,
+        "target": 40
+      },
+      "chapter_finisher": {
+        "name": "终章见证者",
+        "unlocked": false,
+        "target": 4
+      }
+    },
+    "achievement_progress": {
+      "kill_count": 0,
+      "quest_completed": 0,
+      "rift_clear": 0,
+      "reforge_count": 0,
+      "chapter_completed": 0
+    },
+    "chapter_id": "chapter_intro",
+    "weather_state": "clear",
+    "weather_intensity": 0.06,
+    "play_time": 0.0,
+    "settings": {
+      "master_volume": 100,
+      "music_volume": 80,
+      "sfx_volume": 100,
+      "fullscreen": false,
+      "vsync": true,
+      "ui_scale": 1.0,
+      "show_damage_numbers": true,
+      "show_health_bars": true
+    },
+    "telemetry": {
+      "retention": {
+        "first_seen": "2026-03-04T04:21:04.831803",
+        "last_seen": "2026-03-04T04:21:04.842672",
+        "active_days": [
+          "2026-03-04"
+        ]
+      },
+      "summary": {
+        "sessions": 0,
+        "gold_earned": 0,
+        "gold_spent": 0,
+        "kills": 0,
+        "damage_dealt": 0,
+        "damage_taken": 0,
+        "quest_completed": 0,
+        "play_seconds": 0.0
+      },
+      "recent_sessions": []
+    },
+    "live_ops": {
+      "season": {
+        "season_id": "S2026-03",
+        "season_start": "2026-03-04T04:09:26.345904",
+        "season_days": 28,
+        "season_affix_rotation": [
+          "狂暴",
+          "坚韧",
+          "迅捷",
+          "寒潮",
+          "嗜血",
+          "荆棘",
+          "秘法护体",
+          "雷暴"
+        ]
+      },
+      "ab_params": {
+        "seed": "20260304",
+        "variants": {
+          "rift_wave_bonus_scale": {
+            "A": 1.0,
+            "B": 1.1
+          },
+          "loot_gold_scale": {
+            "A": 1.0,
+            "B": 1.08
+          },
+          "monster_hp_scale": {
+            "A": 1.0,
+            "B": 1.06
+          }
+        }
+      },
+      "offline_event": {
+        "daily_reward_gold": 600,
+        "daily_reward_exp": 220,
+        "max_offline_hours": 24
+      }
+    },
+    "risk_alerts": [],
+    "last_seen_at": "2026-03-04T04:21:04.842782",
+    "saved_at": "2026-03-04T04:21:04.842782",
+    "schema_version": 2
+  }
+}

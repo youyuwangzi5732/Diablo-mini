@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "schema_version": 2,
+    "saved_at": "2026-03-04T04:09:26.355221",
+    "signature": "bad10bc3db1f42cd24792b76ac288419da16f78cf558be8d33a8f98cc2875840"
+  },
+  "payload": {
+    "world": {
+      "current_area_id": "tristram"
+    },
+    "quests": {
+      "active_quests": {},
+      "completed_quests": [],
+      "story_flags": {},
+      "quest_outcomes": {}
+    },
+    "story_flags": {},
+    "chapter_history": [],
+    "ending_history": [],
+    "achievements": {},
+    "achievement_progress": {},
+    "chapter_id": "chapter_intro",
+    "weather_state": "clear",
+    "weather_intensity": 0.0,
+    "play_time": 0.0,
+    "settings": {
+      "master_volume": 100,
+      "music_volume": 80,
+      "sfx_volume": 100,
+      "fullscreen": false,
+      "vsync": true,
+      "ui_scale": 1.0,
+      "show_damage_numbers": true,
+      "show_health_bars": true
+    },
+    "telemetry": {
+      "retention": {
+        "first_seen": "2026-03-04T04:09:26.345716",
+        "last_seen": "2026-03-04T04:09:26.345717",
+        "active_days": []
+      },
+      "summary": {
+        "sessions": 0,
+        "gold_earned": 0,
+        "gold_spent": 0,
+        "kills": 0,
+        "damage_dealt": 0,
+        "damage_taken": 0,
+        "quest_completed": 0,
+        "play_seconds": 0.0
+      },
+      "recent_sessions": []
+    },
+    "live_ops": {
+      "season": {
+        "season_id": "S2026-03",
+        "season_start": "2026-03-04T04:09:26.345904",
+        "season_days": 28,
+        "season_affix_rotation": [
+          "狂暴",
+          "坚韧",
+          "迅捷",
+          "寒潮",
+          "嗜血",
+          "荆棘",
+          "秘法护体",
+          "雷暴"
+        ]
+      },
+      "ab_params": {
+        "seed": "20260304",
+        "variants": {
+          "rift_wave_bonus_scale": {
+            "A": 1.0,
+            "B": 1.1
+          },
+          "loot_gold_scale": {
+            "A": 1.0,
+            "B": 1.08
+          },
+          "monster_hp_scale": {
+            "A": 1.0,
+            "B": 1.06
+          }
+        }
+      },
+      "offline_event": {
+        "daily_reward_gold": 600,
+        "daily_reward_exp": 220,
+        "max_offline_hours": 24
+      }
+    },
+    "risk_alerts": [],
+    "last_seen_at": "2026-03-04T04:09:26.355221",
+    "saved_at": "2026-03-04T04:09:26.355221",
+    "schema_version": 2
+  }
+}

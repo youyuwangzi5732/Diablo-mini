@@ -1,0 +1,39 @@
+{
+  "season": {
+    "season_id": "S2026-03",
+    "season_start": "2026-03-04T04:09:26.345904",
+    "season_days": 28,
+    "season_affix_rotation": [
+      "狂暴",
+      "坚韧",
+      "迅捷",
+      "寒潮",
+      "嗜血",
+      "荆棘",
+      "秘法护体",
+      "雷暴"
+    ]
+  },
+  "ab_params": {
+    "seed": "20260304",
+    "variants": {
+      "rift_wave_bonus_scale": {
+        "A": 1.0,
+        "B": 1.1
+      },
+      "loot_gold_scale": {
+        "A": 1.0,
+        "B": 1.08
+      },
+      "monster_hp_scale": {
+        "A": 1.0,
+        "B": 1.06
+      }
+    }
+  },
+  "offline_event": {
+    "daily_reward_gold": 600,
+    "daily_reward_exp": 220,
+    "max_offline_hours": 24
+  }
+}
